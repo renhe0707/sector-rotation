@@ -1,0 +1,21 @@
+{
+  "total_return": -0.032160887246796555,
+  "annualized_return": -0.00867929194052508,
+  "annualized_volatility": 0.1906933464307969,
+  "sharpe_ratio": -0.04551439314991945,
+  "max_drawdown": -0.38266687054034,
+  "calmar_ratio": -0.02268106441581837,
+  "benchmark_total_return": 0.03864428395923225,
+  "benchmark_annualized_return": 0.010162299555228849,
+  "benchmark_annualized_volatility": 0.18163423118607913,
+  "benchmark_sharpe": 0.05594925300626764,
+  "benchmark_max_drawdown": -0.2289513440924681,
+  "excess_total_return": -0.0708051712060288,
+  "excess_annualized_return": -0.01884159149575393,
+  "tracking_error": 0.12975716419881397,
+  "information_ratio": -0.14520656036290094,
+  "monthly_win_rate": 0.5555555555555556,
+  "avg_monthly_excess": -0.001389206975072742,
+  "n_months": 45,
+  "n_years": 3.75
+}
