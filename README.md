@@ -174,4 +174,4 @@ All data is fetched in real-time via the [AKShare](https://github.com/akfamily/a
 
 ## Author | 作者
 
-Robert Ren (任禾) — Purdue University, B.S. Applied Statistics & Actuarial Science
+Robert Ren 任禾 — Purdue University, B.S. Applied Statistics
