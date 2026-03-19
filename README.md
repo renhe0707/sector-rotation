@@ -151,10 +151,6 @@ For a production strategy, incorporating fundamental factors (ROE, revenue growt
 - [ ] Add sector-neutral constraints
 - [ ] Implement walk-forward optimization
 
-## License
-
-MIT
-
 ## Author
 
 Robert Ren — Purdue University, B.S. Applied Statistics
