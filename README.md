@@ -157,4 +157,4 @@ MIT
 
 ## Author
 
-Robert Ren (任禾) — Purdue University, B.S. Applied Statistics & Actuarial Science
+Robert Ren (任禾) — Purdue University, B.S. Applied Statistics
